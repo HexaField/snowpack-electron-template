@@ -3,5 +3,4 @@ build/
 dist_app/
 dist_web/
 node_modules/
-out/
-web_build/
+yarn.lock
