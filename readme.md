@@ -27,6 +27,19 @@ Create, test and distribute decentralised 3D apps for the browser and the deskto
 - Local server / client threaded architecture example with Comlink
 - Electron server background process
 
+## Usage
+
+`yarn install` - get dependencies
+
+`yarn dev` - develop electron app with HMR
+
+`yarn start` - develop in browser with HMR
+
+`yarn test` - run electron & browser tests 
+
+`yarn build` - build for web and desktop
+
+- ouputs to `dist_app` and `dist_web`
 
 
 notes
